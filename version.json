@@ -1,4 +1,4 @@
 {
-  "version": "1.0.1",
-  "url": "https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/spotify.exe"
+  "version": "1.1.0",  // La nueva versión disponible
+  "url": "https://github.com/veryfreaknft/exe/raw/main/spotify.exe"  // URL directa al archivo ejecutable para la actualización
 }
